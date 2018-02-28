@@ -22,7 +22,11 @@ def first_element_with_array_methods(array)
   return array.shift()
 end
 
-def 
+def last_element_with_array(array)
+  return array.pop()
+end
+
+def
 
 
 
